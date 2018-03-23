@@ -1,0 +1,28 @@
+{
+  "name": "reviewmanagementportal",
+  "version": "1.0.0",
+  "description": "Review Management Portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunasekarjabbala/reviewmanagementportal.git"
+  },
+  "author": "Gunasekar Jabbala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gunasekarjabbala/reviewmanagementportal/issues"
+  },
+  "homepage": "https://github.com/gunasekarjabbala/reviewmanagementportal#readme"
+}
